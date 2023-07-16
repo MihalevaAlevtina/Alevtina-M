@@ -5,7 +5,7 @@
 # Навыки и технологии
  Инструменты анализа данных: SQL, Excel
 # Проекты
-Курсовая работа по Excel, ссылка: https://github.com/MihalevaAlevtina/Alevtina-M/blob/main/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20excel%20.xlsx,
-Курсовая работа по Sql
+* Курсовая работа по Excel, ссылка: https://github.com/MihalevaAlevtina/Alevtina-M/blob/main/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20excel%20.xlsx,
+* Курсовая работа по Sql, ссылка: https://github.com/MihalevaAlevtina/Alevtina-M/blob/main/%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20sql.docx
 # Контакты
 email: alevtinamihaleva@mail.ru
